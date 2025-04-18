@@ -1,0 +1,57 @@
+# === Node.js & Express.js ===
+
+# Node modules
+node_modules/
+z_note.txt
+.vscode/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# Debug files
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Testing and coverage
+coverage/
+
+# Build artifacts
+dist/
+build/
+
+# === MongoDB ===
+
+# MongoDB dump or export files
+dump/
+*.archive
+*.bson
+*.json
+
+# Local database files (if using local storage)
+*.mongodb
+*.mongo
+
+# === Uploads (optional for file/image uploads) ===
+uploads/
+public/uploads/
